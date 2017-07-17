@@ -1,0 +1,4 @@
+Verbos HTTP:
+Para criar      ------ POST
+Para dar update ------ PUT
+Pegar uma lista ------ GET
