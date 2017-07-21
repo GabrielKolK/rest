@@ -2,3 +2,19 @@ Verbos HTTP:
 Para criar      ------ POST
 Para dar update ------ PUT
 Pegar uma lista ------ GET
+
+
+
+API RESTful
+- URI
+- RESOURCES
+- OPERAÇÕES
+- VERSIONAMENTO
+- MEDIA TYPES
+- STATUS & ERROR CODES
+- FILTROS E PAGINAÇÃO
+- CACHING
+- SEGURANÇA
+- CALLBACKS
+- HYPERMEDIA
+- DOCUMENTAÇÃO
